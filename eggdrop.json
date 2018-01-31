@@ -1,0 +1,52 @@
+[
+ {
+ "placeholder":"Bot Nickname",
+ "format":"string",
+ "type": "text",
+ "isMandatory": true,
+ "name": "botnick"
+ },
+ {
+ "placeholder":"Admin Name",
+ "format":"string",
+ "type": "text",
+ "isMandatory": true,
+ "name": "adminname"
+ },
+ {
+ "placeholder":"IRC Server (Example: irc.xshellz.com)",
+ "format":"string",
+ "type": "text",
+ "isMandatory": true,
+ "name": "ircserver"
+ },
+ {
+ "placeholder":"IRC Port (Example: 6667)",
+ "format":"string",
+ "type": "text",
+ "isMandatory": true,
+ "name": "ircport"
+ },
+ {
+ "placeholder":"Telnet Port (Log into your shell and type freeport to get a listening port)",
+ "format":"string",
+ "type": "text",
+ "isMandatory": true,
+ "name": "telnetport"
+ },
+ {
+ "placeholder":"Channel (Example: #xShellz)",
+ "format":"string",
+ "type": "text",
+ "isMandatory": true,
+ "name": "channel"
+ },
+ {
+ "placeholder":"Launch Eggdrop-1.8 automatically",
+ "format":"button",
+ "type": "submit",
+ "isMandatory": "true",
+ "name" : "submit",
+ "value": "Install Eggdrop Now"
+ }
+]
