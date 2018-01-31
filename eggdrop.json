@@ -28,7 +28,7 @@
  "name": "ircport"
  },
  {
- "placeholder":"Telnet Port (Log into your shell and type freeport to get a listening port)",
+ "placeholder":"Telnet Port (Login to your shell and type freeport to get a listening port)",
  "format":"string",
  "type": "text",
  "isMandatory": true,
